@@ -1,4 +1,7 @@
 # ASUS-FX506LHB
+
+![alt text](https://github.com/cupecups/ASUS-FX506LHB/blob/b3d6fec0622f0499607f3dc9bf840f458dbf7a57/output.png)
+
 for macos bigsur and newer<br>
 resize EFI partition for dual boot win/mac<br>
 - create new partition on disk management "500MB"
