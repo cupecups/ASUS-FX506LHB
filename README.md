@@ -51,7 +51,8 @@ bcdedit /set {bootmgr} path \EFI\BOOT\BOOTX64.efi
 
 ALC CODEC:
 ~~~
-layout-id=13/21/66/28/11
+- layout-id=13/21/66/28/11
+- with dualboot windows alc can stop working on mac the fix is add bootarg="alctcsel=1 alcdelay=10000" or remove realtex driver on windows
 ~~~
  
 Open Terminal.app and run those commands:
