@@ -48,6 +48,11 @@ bcdedit /set {bootmgr} path \EFI\BOOT\BOOTX64.efi
 
 <details open>
   <summary><h3>Post Installation</h3></summary>
+
+ALC CODEC:
+~~~
+layout-id=13/66/28/11
+~~~
  
 Open Terminal.app and run those commands:
 ~~~
